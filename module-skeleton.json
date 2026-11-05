@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-intercompany-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-intercompany",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-intercompany-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/intercompany.md",
+  "presentationPlan": "projects/accounting/nuxt/intercompany.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
